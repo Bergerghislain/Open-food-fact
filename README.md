@@ -88,7 +88,7 @@ Nous avons choisi de représenter ces données sous forme de **diagramme de Sank
    git clone https://github.com/nom_utilisateur/sankey-openfoodfacts.git
    
 2.Accédez au dossier du projet :
-   ```cd sankey-openfoodfacts
+   cd sankey-openfoodfacts
 
 3. Ouvrez le fichier opendata.html dans un navigateur ou servez-le via un serveur local :
    ```python -m http.server 8000
