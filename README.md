@@ -74,6 +74,14 @@ Nous avons choisi de représenter ces données sous forme de **diagramme de Sank
 
 ---
 
+## 8.License
+
+ Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le redistribuer dans le respect de cette licence.
+ 
+## Auteur : Berger Ghislain
+
+## Données : Open Food Facts 
+
 ## 7. Installation
 1. Clonez le dépôt GitHub :
    ```bash
@@ -85,9 +93,6 @@ Nous avons choisi de représenter ces données sous forme de **diagramme de Sank
 3. Ouvrez le fichier opendata.html dans un navigateur ou servez-le via un serveur local :
    ```python -m http.server 8000
 
-## 8.License
- Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le redistribuer dans le respect de cette licence.
+---
 
-## Auteur : Berger Ghislain
 
-## Données : Open Food Facts 
